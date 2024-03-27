@@ -1,0 +1,8 @@
+[Speaker_1]: Hey there, how's it going?
+[Speaker_2]: Not bad, just chilling. What about you?
+[Speaker_1]: Same here, just taking it easy. Did you catch the game last night?
+[Speaker_2]: Yeah, I watched it. It was a close one!
+[Speaker_1]: Right? That last-minute goal was insane.
+[Speaker_2]: Totally, kept me on the edge of my seat.
+[Speaker_1]: Anyway, gotta run. Talk to you later!
+[Speaker_2]: Sure thing, catch you later!

@@ -1,0 +1,12 @@
+[Speaker_1]: Good morning! How did you sleep?
+[Speaker_2]: Morning! I slept like a log, thanks for asking. How about you?
+[Speaker_1]: Not too bad, although I had a weird dream.
+[Speaker_2]: Oh, really? What was it about?
+[Speaker_1]: I dreamt I was flying over the ocean, but then I suddenly turned into a giant fish!
+[Speaker_2]: That does sound strange. Maybe it means you're ready for a vacation by the sea!
+[Speaker_1]: Haha, maybe you're right. So, any plans for today?
+[Speaker_2]: Not much, just some errands to run. What about you?
+[Speaker_1]: I have a meeting in the afternoon, but other than that, nothing much.
+[Speaker_2]: Well, let me know if you need any help with anything.
+[Speaker_1]: Thanks, I appreciate it. Alright, I'll catch you later!
+[Speaker_2]: Sounds good, talk to you later!
